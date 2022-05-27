@@ -5,7 +5,7 @@ getgenv().DisableKey = "P"
 	
 getgenv().FOV = true	
 getgenv().ShowFOV = false	
-getgenv().FOVSize = 20	
+getgenv().FOVSize = 55	
 	
 --// Variables (Service)	
 	
